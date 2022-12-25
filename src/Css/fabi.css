@@ -1,0 +1,17 @@
+.Personal_Info{
+    width: 30%;
+}
+.Works{
+    width: 50%;
+}
+.First_Component{
+    display: flex;
+    justify-content: center;
+}
+.Header_Info{
+    width: 70%;
+}
+.Work_img{
+    width: 800px;
+    height: 500px;
+}
